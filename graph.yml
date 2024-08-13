@@ -1,0 +1,5 @@
+# config file for graph generation
+
+seed: 42
+qubits: 3
+each_qubit_cal: 3
